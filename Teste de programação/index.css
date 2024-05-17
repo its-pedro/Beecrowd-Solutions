@@ -1,0 +1,24 @@
+.racing-sans-one-regular {
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+h1 {
+    color:white; 
+    font-style: normal; 
+    text-align: left;
+
+}
+
+div.a{
+    background-color:rgba(30, 72, 146, 0.75);
+    background-size: 2000px 300px;
+}
+
+a {
+    color:white;
+    text-align: center;
+    font-style: normal;
+    font-size: large;
+}
