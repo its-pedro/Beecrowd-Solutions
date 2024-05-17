@@ -27,10 +27,14 @@ p{
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    text-align: center;
+    
     
 }
-.PROFESSOR{
-    border: 1px solid black;
-    border-radius: 12cm;
+.PROFESSOR {
+  max-width: 236px;
+  max-height: 281px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  
 }
