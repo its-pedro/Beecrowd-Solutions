@@ -21,9 +21,8 @@ h1 {
     background-size: 2000px 300px;
 }
 
-a {
+.login {
     color:white;
-    text-align: center;
     font-size: large;
 }
 
@@ -35,6 +34,7 @@ p{
     
     
 }
+
 .PROFESSOR {
   max-width: 236px;
   max-height: 281px;
@@ -42,4 +42,10 @@ p{
   margin-right: auto;
   border: 1px solid black;
   
+}
+
+.pagina-de-avaliacao {
+    color: black;
+    text-align: center;
+    font-size: medium;
 }
